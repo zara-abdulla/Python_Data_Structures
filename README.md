@@ -4,7 +4,10 @@ This repository includes **two Jupyter Notebook (.ipynb)** files:
  *Task 1* and *Task 2* containing beginner-level Python exercises focused on **Data Structures**.
 
  ### 📂 Files included
+ - [Task 1](Code/Data%20Structures%20Practice_1.ipynb)  
+- [Task 2](Code/Data%20Structures%20Practice_2.ipynb) 
  
+--- 
 
  Each notebook includes examples and exercises about:
 - **Basic data types:** integers, floats, strings, booleans  
